@@ -28,7 +28,6 @@ npm install
 To connect to the database, ensure you have a `.env` file in the root directory with the following:
 ```
 MONGO_URI=your_mongodb_connection_string
-PORT=5000
 ```
 
 **Note:** The database access credentials are not included in this repository. Please contact the project owner if you need access.
